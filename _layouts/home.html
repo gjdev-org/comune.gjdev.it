@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="{{ page.lang }}">
+<head>
+  {% include meta.html %}
+  {% include styles.html %}
+  {%- if jekyll.environment == 'production' -%}
+  {%- include analytics/google-analytics.html -%}
+  <style>
+    .card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.card-image {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-image img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.card-content {
+    padding: 20px;
+    text-align: center;
+}
+
+.card-content h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.card-content p {
+    font-size: 1rem;
+    color: #666;
+}
+  </style>
+  {%- endif -%}
+</head>
+<body>
+  {%- include header/header.html -%}
+  {{ content }}
+          <div class="card">
+            <div class="card-image">
+                <img src="https://www.reshot.com/preview-assets/icons/N3ZWLRHDC8/google-docs-N3ZWLRHDC8.svg" alt="Invia e vedi le proposte">
+            </div>
+            <div class="card-content">
+                <h3>Invia e vedi le proposte</h3>
+                <p>Esplora le proposte e invia le tue idee per un futuro migliore.</p>
+            </div>
+        </div>
+        
+        <!-- Card 2: Blog -->
+        <div class="card">
+            <div class="card-image">
+                <img src="https://www.reshot.com/preview-assets/icons/J79QEHD2GL/blog-J79QEHD2GL.svg" alt="Blog">
+            </div>
+            <div class="card-content">
+                <h3>Blog</h3>
+                <p>Scopri le ultime novità e articoli interessanti sul nostro blog.</p>
+            </div>
+        </div>
+
+        <!-- Card 3: Obiettivi 2035 -->
+        <div class="card">
+            <div class="card-image">
+                <img src="https://www.reshot.com/preview-assets/icons/FXPQND5SLZ/falling-objects-FXPQND5SLZ.svg" alt="Obiettivi 2035">
+            </div>
+            <div class="card-content">
+                <h3>Obiettivi 2035</h3>
+                <p>Scopri i progetti e le iniziative per raggiungere gli obiettivi di sviluppo sostenibile.</p>
+            </div>
+        </div>
+
+        <!-- Card 4: Altro -->
+        <div class="card">
+            <div class="card-image">
+                <img src="https://www.reshot.com/preview-assets/icons/WPMR5UXGJ9/document-WPMR5UXGJ9.svg" alt="Altro">
+            </div>
+            <div class="card-content">
+                <h3>Altro</h3>
+                <p>Esplora altre tematiche e proposte innovative per il futuro.</p>
+            </div>
+        </div>
+
+  
+  {%- include footer/footer.html -%}
+  {%- include cookiebar.html -%}
+  {%- include scripts.html -%}
+</body>
+</html>
