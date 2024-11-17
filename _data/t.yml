@@ -7,35 +7,35 @@ social-card: /assets/images/favicons/social-card.png
 
 ## Site name
 name:
-  en: "A Jekyll theme"
-  it: "Un tema Jekyll"
+  en: "GJD City Hall"
+  it: "Comune GJD"
 
 ## Site description
 description:
-  en: "A website with a Jekyll theme"
-  it: "Sito di esempio per il tema Jekyll"
+  en: "We are the future"
+  it: "Noi siamo il futuro"
 
 ## Site author
 author:
-  en: "Digital Transformation Team"
-  it: "Team per la Trasformazione Digitale"
+  en: "18f team"
+  it: "18f team"
 
 ## Social
 social-links:
   en:
     twitter:
       name: "twitter"
-      url: "https://twitter.com/ITdigitalteam"
+      url: "https://twitter.com/gabrieljonesdev"
     medium:
       name: "medium"
-      url: "https://medium.com/team-per-la-trasformazione-digitale/"
+      url: "https://medium.com/gabrieljones/"
   it:
     twitter:
       name: "twitter"
-      url: "https://twitter.com/teamdigitaleIT"
+      url: "https://twitter.com/gabrieljonesdev"
     medium:
       name: "medium"
-      url: "https://medium.com/team-per-la-trasformazione-digitale/"
+      url: "https://medium.com/gabrieljones/"
 
 ## Labels
 italian-version:
