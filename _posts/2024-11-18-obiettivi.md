@@ -2,7 +2,7 @@
 layout: post
 title: Nuovi obiettivi 2035!
 lang: it
-ref: nuovi-obiettivi-2035
+ref: new
 categories: [progetti]
 tags: [cittadinanza, progetti, futuro-attivo, famiglie, giovani]
 ---
