@@ -5,74 +5,16 @@
   {% include styles.html %}
   {%- if jekyll.environment == 'production' -%}
   {%- include analytics/google-analytics.html -%}
-  <style>/* Resetting default margins and paddings */
 
-
-/* Stile di ogni card */
-.car2d {
-    background-color: white;
-    border-radius: 30px; /* Bordo molto arrotondato */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Ombra sottile */
-    overflow: hidden;
-    width: 23%; /* Ogni card occupa circa il 23% dello spazio disponibile */
-    transition: transform 0.3s ease-in-out;
-    text-align: center; /* Allinea tutto al centro */
-}
-
-.car2d:hover {
-    transform: translateY(-10px); /* Effetto hover per sollevare la card */
-}
-
-.car2d-image {
-    width: 100%;
-    height: 200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.car2d-image img {
-    max-width: 100%;
-    max-height: 100%;
-    object-fit: contain;
-}
-
-.car2d-content {
-    padding: 15px;
-}
-
-.car2d-content h3 {
-    font-size: 1.3rem;
-    color: #333;
-    margin-bottom: 10px;
-}
-
-.car2d-content p {
-    font-size: 1rem;
-    color: #666;
-}
-
-.car2d-link {
-    text-decoration: none;
-    color: inherit; /* Fa in modo che il link erediti il colore dal testo */
-}
-
-  </style>
   {%- endif -%}
 </head>
 <body>
   {%- include header/header.html -%}
   {{ content }}
-          <div class="card">
-            <div class="card-image">
-                <img src="https://www.reshot.com/preview-assets/icons/N3ZWLRHDC8/google-docs-N3ZWLRHDC8.svg" alt="Invia e vedi le proposte">
-            </div>
-            <div class="card-content">
-                <h3>Invia e vedi le proposte</h3>
-                <p>Esplora le proposte e invia le tue idee per un futuro migliore.</p>
-            </div>
-        </div>
-        
+    <div class="card">
+      <h3>Obiettivo?</h3>
+        <p>Diamo voce ai giovani, perché siamo noi il futuro!</p>
+    </div>
         <!-- Card 2: Blog -->
         <div class="card">
             <div class="card-image">
@@ -84,27 +26,7 @@
             </div>
         </div>
 
-        <!-- Card 3: Obiettivi 2035 -->
-        <div class="card">
-            <div class="card-image">
-                <img src="https://www.reshot.com/preview-assets/icons/FXPQND5SLZ/falling-objects-FXPQND5SLZ.svg" alt="Obiettivi 2035">
-            </div>
-            <div class="card-content">
-                <h3>Obiettivi 2035</h3>
-                <p>Scopri i progetti e le iniziative per raggiungere gli obiettivi di sviluppo sostenibile.</p>
-            </div>
-        </div>
 
-        <!-- Card 4: Altro -->
-        <div class="card">
-            <div class="card-image">
-                <img src="https://www.reshot.com/preview-assets/icons/WPMR5UXGJ9/document-WPMR5UXGJ9.svg" alt="Altro">
-            </div>
-            <div class="card-content">
-                <h3>Altro</h3>
-                <p>Esplora altre tematiche e proposte innovative per il futuro.</p>
-            </div>
-        </div>
 
   
   {%- include footer/footer.html -%}
