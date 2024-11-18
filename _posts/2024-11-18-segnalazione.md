@@ -7,8 +7,6 @@ lang: it
 ref: new
 ---
 
-# Sport a Fontanafredda: Un diritto per tutti, non solo per chi può permetterselo
-
 Lo sport è una delle risorse più preziose per il benessere fisico, mentale e sociale di ciascun individuo. È un'opportunità per crescere, stare insieme, e sviluppare un senso di appartenenza alla comunità. Tuttavia, a Fontanafredda, l'accesso a molte attività sportive è spesso limitato da tariffe troppo elevate, rendendo difficoltoso per molte famiglie partecipare a corsi o allenamenti.
 
 Purtroppo, non tutti hanno le stesse possibilità economiche, e per molte famiglie locali, iscrivere i propri figli o se stessi a un’attività sportiva diventa un lusso che non si possono permettere. Questo porta a una situazione in cui l'accesso allo sport diventa una sorta di privilegio, esclusivo per chi ha la possibilità di pagare. Le persone che si trovano in difficoltà economiche sono così escluse da una risorsa fondamentale per la loro salute e il loro benessere.
