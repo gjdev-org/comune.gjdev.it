@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Nuovi obiettivi 2035!
+title: New Post
+categories: [categoria1]
+tags: [tag1, tag2, tag3]
 lang: it
 ref: new
-categories: [progetti]
-tags: [cittadinanza, progetti, futuro-attivo, famiglie, giovani]
 ---
 
 Obiettivi 2035 per Fontanafredda: Una Città a Misura di Giovani e Famiglie
