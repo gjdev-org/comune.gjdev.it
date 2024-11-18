@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Nuovo Post
-categories: [categoria2]
-tags: [tag1, tag2]
+title: Sport a Fontanafredda dovrebbe esser un diritto per tutti, non solo per chi può permetterselo
+categories: [sport]
+tags: [sport, segnalazione]
 lang: it
 ref: new
 ---
