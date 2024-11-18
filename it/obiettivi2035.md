@@ -5,7 +5,7 @@ description: Questo sarà il futuro!
 lang: it
 ref: homepage
 permalink: /it/obiettivi2035
-order: 3
+order: 1
 ---
 
 {% include hero.html %}
