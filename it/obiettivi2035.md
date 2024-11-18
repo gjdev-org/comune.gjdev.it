@@ -1,5 +1,5 @@
 ---
-layout: Page
+layout: Post
 title: Obiettivi 2035
 description: Questo sarà il futuro!
 lang: it
