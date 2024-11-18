@@ -1,9 +1,9 @@
 ---
 ## Main icon
-icon: "/assets/images/b.svg"
+icon: "https://www.comune.fontanafredda.pn.it/wp-content/uploads/2024/09/Stemma-Fontanafredda.png"
 
 ## Social Card [1200x630]
-social-card: /assets/images/favicons/social-card.png
+social-card: https://www.comune.fontanafredda.pn.it/wp-content/uploads/2024/09/Stemma-Fontanafredda.png
 
 ## Site name
 name:
