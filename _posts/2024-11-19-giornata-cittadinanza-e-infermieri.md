@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sport a Fontanafredda dovrebbe esser un diritto per tutti, non solo per chi può permetterselo
+title: 🌟 21 novembre: Un giorno per riflettere, celebrare e ringraziare 🌟
 categories: [cultura]
 tags: [21Novembre, cittadinanza, gratitudine, giornata degli infermieri, riflessione, impegno, solidarietà, salute]
 lang: it
