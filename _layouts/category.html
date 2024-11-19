@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="centered-container">
   <h1 class="category-title">Posts in the category: {{ page.title }}</h1>
-  <p>La cattegoria è a cura di: <a href="https://comune.gjdev.it/comune/persone/{{ page.author | slugify }}">{{ page.author }}</a></p>
+  <p>La cattegoria è a cura di: <a href="https://gjdev.it/persone/{{ page.author | slugify }}">{{ page.author }}</a></p>
   <div class="category-posts">
     {% assign category_posts = site.posts | where: "categories", page.category %}
     {% for post in category_posts %}
