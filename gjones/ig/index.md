@@ -8,70 +8,47 @@ permalink: /gjones/ig/
 ---
 # Regolamentazione per l'Account Politico su Instagram
 
-## 1. Introduzione
-L'account Instagram è gestito da **Gabriel** (e, se necessario, un team) ed è destinato a trattare tematiche politiche e sociali, con l’obiettivo di raggiungere un pubblico ampio e stimolare discussioni costruttive. L'account è pensato per condividere opinioni, riflessioni e aggiornamenti sul panorama politico, creando uno spazio per l'interazione diretta con i follower.
-
-## 2. Responsabilità e Gestione dell'Account
-
-- **Responsabile dell'Account:** L'account sarà gestito da **Gabriel** con il supporto di un team, se necessario.
-- **Autorizzazioni e Sicurezza:** L'accesso all'account deve essere sicuro e limitato a chi è autorizzato. Le credenziali devono essere condivise solo con membri di fiducia.
-- **Monitoraggio e Risposta:** L'attività dell'account deve essere monitorata attivamente. Gabriel (o il team) dovrà rispondere in tempo utile a commenti, messaggi privati e domande.
-
-## 3. Contenuti da Pubblicare
-
-- **Tipo di Contenuti:** I contenuti saranno focalizzati su tematiche politiche e sociali e possono includere:
-  - Commenti e riflessioni personali su eventi politici rilevanti.
-  - Approfondimenti su proposte, leggi, iniziative o politiche in corso.
-  - Discussioni su temi sociali, economici e culturali legati alla politica.
-  - Meme, video e contenuti visivi per stimolare l'interazione e la condivisione.
-  - Inviti alla discussione e sondaggi interattivi.
-
-- **Qualità dei Contenuti:** I contenuti devono essere chiari, comprensibili e pertinenti. È fondamentale che siano informativi, senza compromettere il tono informale e coinvolgente. Devono essere verificati per garantire la loro accuratezza.
-
-- **Frequenza dei Post:** È importante mantenere una certa costanza nelle pubblicazioni per restare rilevante, ma senza inondare i follower. Un buon punto di partenza può essere 3-5 post alla settimana, ma la frequenza può variare a seconda dell'attualità.
-
-## 4. Tono e Interazione con il Pubblico
-
-- **Tono Informale ma Rispettoso:** Pur trattandosi di un account informale, il tono deve rimanere rispettoso e accessibile, evitando offese o linguaggi estremi. L’obiettivo è stimolare il dibattito, non creare conflitti gratuiti.
+#### 1. **Contenuti Pubblicati**
+- **Finalità**: Questo account è dedicato alla comunicazione di idee politiche, aggiornamenti su iniziative e campagne, riflessioni su temi rilevanti e informazioni di pubblico interesse. Ogni contenuto pubblicato è pensato per stimolare il dibattito civile e costruttivo.
+- **Trasparenza e Veridicità**: Ci impegniamo a condividere contenuti basati su fatti e informazioni verificate. Le fonti delle notizie saranno sempre citate quando possibile. Se ci fossero errori, ci riserviamo il diritto di correggerli e aggiornare il contenuto in modo trasparente.
+- **Rispetto della Legge**: È vietato pubblicare contenuti che incitano all'odio, alla violenza o alla discriminazione di qualsiasi tipo. L'account rispetta tutte le leggi e regolamenti in vigore, e si impegna a rispettare le normative sulla privacy e sulla diffamazione.
   
-- **Interazione Attiva:** L'account dovrà essere interattivo. Gabriel (o il team) deve rispondere ai commenti in modo attivo, stimolando il dialogo. È importante incoraggiare il confronto costruttivo e gestire eventuali attacchi in modo calmo e diplomatico.
+#### 2. **Interazione con i Follower**
+- **Dibattito e Discussione**: L'account incoraggia il dibattito politico civile e costruttivo. Siamo aperti a critiche, suggerimenti e opinioni contrastanti, purché siano espressi in modo rispettoso e non violento.
+- **Rispetto**: Qualsiasi commento o interazione che violi i principi di rispetto e dignità umana sarà moderato. Offese, insulti personali, minacce e incitamenti all'odio non sono tollerati.
+- **Dialogo Concreto**: Preferiamo interazioni basate su argomenti concreti e soluzioni reali. I commenti che si concentrano su questioni politiche o sociali in modo produttivo sono sempre benvenuti.
 
-- **Gestione delle Critiche:** Quando si affrontano critiche o commenti negativi, è importante rispondere in modo civile e oggettivo, cercando di chiarire eventuali malintesi senza cadere in polemiche inutili.
+#### 3. **Moderazione dei Commenti**
+- **Politica di Moderazione**: I commenti che violano le seguenti linee guida verranno rimossi o bloccati senza preavviso:
+  - Linguaggio offensivo, volgare o incitante all'odio.
+  - Disinformazione intenzionale o fake news.
+  - Minacce, molestie o comportamenti intimidatori.
+  - Spam o pubblicità non richieste.
+  - Razzismo, sessismo, omofobia, e altre forme di discriminazione.
+- **Blocco e Segnalazione**: Gli utenti che ripetutamente violano queste regole possono essere temporaneamente o permanentemente bloccati. Chiunque possa essere vittima di bullismo o molestie è incoraggiato a segnalarlo.
 
-- **Moderazione dei Commenti:** Anche se l’account è informale, è fondamentale moderare i commenti per evitare contenuti offensivi, diffamatori o violenti. I commenti che violano il rispetto reciproco dovrebbero essere rimossi o segnalati, sempre rispettando la libertà di espressione.
+#### 4. **Messaggi Diretti (DM)**
+- **Comunicazioni Personali**: Accogliamo messaggi diretti pertinenti e costruttivi. Tuttavia, i messaggi che contengono linguaggio offensivo, minacce o contenuti violenti non verranno letti né risposti.
+- **Risposta ai DM**: Cerchiamo di rispondere a tutte le richieste legittime, ma le risposte potrebbero essere limitate a motivi di tempo. I messaggi che riguardano problematiche politiche o domande specifiche sui nostri progetti verranno trattati con la massima priorità.
+- **Privacy e Rispetto**: I DM non saranno divulgati senza il consenso esplicito del mittente, a meno che non siano rilevanti per la sicurezza pubblica o violino le leggi.
 
-## 5. Privacy e Rispetto delle Normative
+#### 5. **Rispetto della Privacy**
+- **Protezione dei Dati**: Non raccoglieremo né condivideremo informazioni personali dei nostri follower, a meno che non sia strettamente necessario per motivi di comunicazione o collaborazione, e sempre nel rispetto delle leggi sulla privacy.
+- **Responsabilità e Privacy degli Altri**: È vietato pubblicare contenuti che possano ledere la privacy di individui senza il loro consenso, inclusi dati sensibili, immagini o dichiarazioni private.
 
-- **Rispetto della Privacy:** Non devono essere condivise informazioni personali di altri senza il loro consenso esplicito. Eventuali dati sensibili devono essere trattati con riservatezza e attenzione.
+#### 6. **Politica di Inclusività e Diversità**
+- Questo account promuove valori di inclusività e rispetto verso tutte le persone, indipendentemente dal loro background, orientamento, genere, religione, etnia o opinioni politiche. Crediamo che un confronto sano e civile possa solo arricchire la società, e lavoriamo per creare un ambiente che favorisca la partecipazione di tutti.
   
-- **Normative Legali:** Sebbene l'account sia informale, deve comunque rispettare le leggi vigenti, incluse quelle sulla protezione dei dati personali (ad esempio, GDPR in Europa) e sul copyright. Non devono essere utilizzati contenuti protetti senza autorizzazione.
+#### 7. **Iniziative e Collaborazioni**
+- **Collaborazioni e Supporto**: Siamo aperti a collaborazioni con altre realtà politiche, associazioni, o gruppi che condividono i nostri valori fondamentali. Ogni collaborazione sarà sempre chiara, trasparente e mirata a migliorare la nostra azione politica.
+- **Promozione di Eventi**: Gli eventi, le manifestazioni o le iniziative politiche promosse attraverso questo account saranno sempre descritte in modo trasparente, con informazioni chiare su data, luogo, obiettivi e organizzatori.
 
-## 6. Crescita e Interazione con il Pubblico
+#### 8. **Gestione delle Critiche e Feedback**
+- Siamo consapevoli che ogni iniziativa politica può suscitare opinioni contrastanti. Accogliamo le critiche costruttive e risponderemo con dati, fatti e argomentazioni solide. Non tollereremo invece attacchi personali, diffamazione o commenti che distorcano le informazioni per fini polemici.
 
-- **Coinvolgimento del Pubblico:** Per raggiungere un pubblico più ampio, è importante utilizzare tecniche di coinvolgimento come:
-  - **Sondaggi** e **quiz** nelle storie per stimolare l'interazione.
-  - **Dirette Instagram** per dibattiti e discussioni in tempo reale.
-  - **Collaborazioni con altri account** o influencer con valori simili per amplificare il messaggio.
-  - **Chiamate all'azione (CTA)** chiare in ogni post, per invitare i follower a commentare, condividere o rispondere.
 
-- **Strategie di Crescita:** Utilizzare le tecniche di crescita organica come il **cross-posting** su altre piattaforme, la partecipazione a **hashtag popolari** relativi alla politica, e l'adozione di strategie SEO per Instagram. L'account dovrebbe anche rispondere ai trend e commentare su temi di attualità per restare visibile.
+### **Modifiche al Regolamento**
+Ci riserviamo il diritto di aggiornare e modificare queste politiche in qualsiasi momento, al fine di riflettere al meglio i cambiamenti nel panorama politico, sociale e normativo. Ogni modifica sarà comunicata tramite un post pubblico sull'account.
 
-## 7. Gestione della Crisi e Situazioni Emergenti
 
-- **Piano di Emergenza:** In caso di polemiche o situazioni critiche, Gabriel deve gestire la crisi con diplomazia e trasparenza, evitando risposte impulsive. La priorità è mantenere il controllo della narrativa e chiarire malintesi in modo pubblico, se necessario.
-
-- **Contenuti Danno alla Reputazione:** Qualora si diffondano contenuti dannosi o disinformazione, l'account ha il diritto di rimuovere o chiarire pubblicamente la posizione, sempre rispettando il diritto di opinione degli altri.
-
-## 8. Monitoraggio e Analisi delle Performance
-
-- **Analisi delle Performance:** Monitorare regolarmente le performance tramite gli strumenti di analisi di Instagram, per capire quali contenuti generano più coinvolgimento e per migliorare la strategia in base ai dati.
-  
-- **Adattamenti alla Strategia:** I contenuti e la frequenza devono essere adattati in base ai feedback del pubblico e alle performance dei post. Testare nuovi approcci per capire meglio cosa risuona con la community.
-
-## 9. Modifiche alle Linee Guida
-
-- **Aggiornamenti della Regolamentazione:** Le linee guida possono essere aggiornate in base all'evoluzione dell'account e delle necessità della comunità. Ogni modifica deve essere comunicata chiaramente, se necessario.
-
----
-
-Queste linee guida sono pensate per mantenere un equilibrio tra l'informalità del tuo account e la necessità di gestirlo in modo strategico per raggiungere un ampio pubblico e stimolare la discussione politica.
+Queste politiche sono progettate per stabilire un ambiente online rispettoso, civile e produttivo, contribuendo a una comunicazione politica sana e inclusiva. Se ti sembra che possa funzionare, puoi iniziare a comunicarle ai tuoi follower, magari includendole anche nella descrizione dell’account o in un post di benvenuto.
