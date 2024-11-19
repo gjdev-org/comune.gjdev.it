@@ -3,13 +3,28 @@ layout: default
 ---
 
 <article class="container my-4">
-A cura di [{{ page.reparto }}]({{ page.reparto }})
-Autore [{{ page.author }}]({{ page.author_url }})
+  <div class="riferimenti">
+A cura di {{ page.reparto }}({{ page.reparto }})
+    
+Autore {{ page.author }}({{ page.author_url }})
+    </div>
   <h1>{{ page.title }}</h1>
 
   <div class="entry">
     {{ content }}
   </div>
+
+
+  <style>
+    .riferimenti {
+  width: 100%; /* Larghezza del rettangolo, puoi modificarla */
+  height: 200px; /* Altezza del rettangolo, puoi modificarla */
+  margin: 3cm; /* Imposta il margine di 3 cm intorno al rettangolo */
+  border: 2px solid #000; /* Bordo di 2px di colore nero, puoi cambiarlo */
+  border-radius: 15px; /* Arrotondamento degli angoli, puoi modificarlo */
+}
+
+  </style>
 
   <div class="date">
     Scritto il {{ page.date | date: "%d/%m/%Y" }}
