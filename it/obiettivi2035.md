@@ -1,11 +1,10 @@
 ---
-layout: Post
-title: Obiettivi 2035
-description: Questo sarà il futuro!
+layout: post
+title: "Obiettivi 2035"
+description: "Questo sarà il futuro!"
 lang: it
-ref: homepage
-permalink: /it/obiettivi2035
-order: 1
+author: Team Giovani
+permalink: obiettivi2035
 ---
 
 {% include hero.html %}
@@ -42,6 +41,4 @@ order: 1
 
     <p>Attraverso il raggiungimento di questi obiettivi, <strong>Fortafedra</strong> potrà diventare un luogo dove ogni giovane ha l'opportunità di crescere e prosperare, dove le famiglie trovano supporto concreto e dove la comunità si unisce per costruire un futuro migliore.</p>
 
-
 </main>
-
