@@ -7,6 +7,9 @@ lang: it
 ref: new
 persone : Gabriel Jones
 A cura di : Reparto 18F
+author: "Gabriel Jones"
+author_url: "https://comune.gjdev.it/gjones/"
+reparto: "Team Comune - politiche giovanili"
 ---
 # 🌟 21 novembre: Un giorno per riflettere, celebrare e ringraziare 🌟
 
