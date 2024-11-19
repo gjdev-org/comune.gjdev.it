@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 📚 **Aperilibriamo con Gabriella Grassi del libro "L'albero nel cortile" di Gabriella Grassi** 🌳
+title: # 📚 **Aperilibriamo con il libro "L'albero nel cortile" di Gabriella Grassi** 🌳
 categories: [cultura]
 tags: [comunità, biblioteca, cultura]
 lang: it
