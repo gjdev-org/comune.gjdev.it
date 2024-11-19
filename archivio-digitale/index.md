@@ -3,9 +3,9 @@ layout: page
 title: Archivio dei documenti gjd!
 description: Gabriel Jones
 lang: it
-permalink: /archivio-gjdocument/
+permalink: /gjones/archivio-gjdocument/
 order: 1
-Author : Ufficio di Gabriel
+author : Ufficio di Gabriel
 Reparto : 18F
 ---
 
