@@ -8,7 +8,9 @@ layout: default
   </div>
 
   <div class="date">
+    <p>Il post è a cura di: <a href="https://comune.gjdev.it/comune/uffici/{{ page.author | slugify }}">Ufficio GJD {{ page.author }}</a></p>
     Scritto il {{ page.date | date: "%d/%m/%Y" }}
+    
   </div>
 
   {% include disqus.html %}
