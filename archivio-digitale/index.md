@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Ufficio Digitale Di Gabriel!
+title: Archivio dei documenti gjd!
 description: Gabriel Jones
 lang: it
-permalink: /ufficio-digitale/
+permalink: /archivio-gjdocument/
 order: 1
 ---
 
