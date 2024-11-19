@@ -5,7 +5,7 @@ categories: [cultura]
 tags: [comunità, biblioteca, cultura]
 lang: it
 ref: new
-author: "Team Giovani"
+author: "Gabriel Jones"
 ---
 
 
