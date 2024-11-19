@@ -5,6 +5,9 @@ categories: [cultura]
 tags: [comunità, biblioteca, cultura]
 lang: it
 ref: new
+author: "Gabriel Jones"
+author_url: "https://comune.gjdev.it/gjones/"
+reparto: "Team Comune - politiche giovanili"
 ---
 
 
