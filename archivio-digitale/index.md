@@ -6,7 +6,7 @@ lang: it
 permalink: /gjones/archivio-gjdocument/
 order: 1
 author : Ufficio di Gabriel
-Reparto : 18F
+reparto : 18F
 ---
 
 
