@@ -5,6 +5,8 @@ categories: [cultura]
 tags: [21Novembre, cittadinanza, gratitudine, giornata degli infermieri, riflessione, impegno, solidarietà, salute]
 lang: it
 ref: new
+persone : Gabriel Jones
+A cura di : Reparto 18F
 ---
 # 🌟 21 novembre: Un giorno per riflettere, celebrare e ringraziare 🌟
 
