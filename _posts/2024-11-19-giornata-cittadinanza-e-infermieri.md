@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title: 🌟 21 novembre: Un giorno per riflettere, celebrare e ringraziare 🌟
 categories: [cultura]
 tags: [21Novembre, cittadinanza, gratitudine, giornata degli infermieri, riflessione, impegno, solidarietà, salute]
