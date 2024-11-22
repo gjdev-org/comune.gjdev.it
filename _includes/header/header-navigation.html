@@ -41,15 +41,6 @@ tutte le pagine del sito che:
               <div class="close-div sr-only">
                 <button class="btn close-menu" type="button"><span class="it-close"></span>close</button>
               </div>
-              <div class="menu-wrapper">
-                <ul class="navbar-nav">
-                  {% for menu_page in current_lang_menu_pages %}
-                  <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}{{menu_page.permalink}}"><span>{{menu_page.title}}</span></a>
-                  </li>
-                  {% endfor %}
-                </ul>
-              </div>
             </div>
           </nav>
         </div>
