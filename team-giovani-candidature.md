@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Team giovani
 description: This is now!
 lang: it
