@@ -14,7 +14,17 @@ order: 1
   <p>Queste figure si occupano di: Presidente, A.G. (Assessorato Giovanile) alla cultura, A.G. (Assessorato Giovanile) all'innovazione, A.G. (Assessorato Giovanile) alla sostenibilità, A.G. (Assessorato Giovanile) al benessere, A.G. (Assessorato Giovanile) all'istruzione, A.G. (Assessorato Giovanile) allo sport.</p>
 
   <div class="row">
-    <!-- Card 1: A.G. Cultura -->
+    <!-- Card 1: Presidente -->
+    <div class="col-md-6">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Presidente del Team</h5>
+          <p class="card-text">Il Presidente coordina il Team Giovani e rappresenta i giovani nelle decisioni che riguardano le attività e gli obiettivi del gruppo, facilitando la comunicazione tra gli assessorati.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 2: A.G. Cultura -->
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
@@ -23,8 +33,10 @@ order: 1
         </div>
       </div>
     </div>
+  </div>
 
-    <!-- Card 2: A.G. Innovazione -->
+  <div class="row">
+    <!-- Card 3: A.G. Innovazione -->
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
@@ -33,10 +45,8 @@ order: 1
         </div>
       </div>
     </div>
-  </div>
 
-  <div class="row">
-    <!-- Card 3: A.G. Sostenibilità -->
+    <!-- Card 4: A.G. Sostenibilità -->
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
@@ -45,8 +55,10 @@ order: 1
         </div>
       </div>
     </div>
+  </div>
 
-    <!-- Card 4: A.G. Benessere -->
+  <div class="row">
+    <!-- Card 5: A.G. Benessere -->
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
@@ -55,10 +67,8 @@ order: 1
         </div>
       </div>
     </div>
-  </div>
 
-  <div class="row">
-    <!-- Card 5: A.G. Istruzione -->
+    <!-- Card 6: A.G. Istruzione -->
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
@@ -67,25 +77,15 @@ order: 1
         </div>
       </div>
     </div>
+  </div>
 
-    <!-- Card 6: A.G. Sport -->
+  <div class="row">
+    <!-- Card 7: A.G. Sport -->
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
           <h5 class="card-title">Sport Giovanile</h5>
           <p class="card-text">L'Assessorato allo Sport promuove tornei, eventi sportivi e attività all'aperto per coinvolgere i giovani in una vita sana e attiva.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="row">
-    <!-- Card 7: A.G. Presidente -->
-    <div class="col-md-6">
-      <div class="card">
-        <div class="card-body">
-          <h5 class="card-title">Presidente del Team</h5>
-          <p class="card-text">Il Presidente coordina il Team Giovani e rappresenta i giovani nelle decisioni che riguardano le attività e gli obiettivi del gruppo, facilitando la comunicazione tra gli assessorati.</p>
         </div>
       </div>
     </div>
