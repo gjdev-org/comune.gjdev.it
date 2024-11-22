@@ -39,6 +39,7 @@ author: "Alessandro S."
         <li>URP : Membro dello URP</li>
         <li>18F : presidente di </li>
         <li>RC : Unico membro del reparto creativo</li>
+        <li><b>AGCI : Assessorato Giovanile (alla) cultura (e) istruzione</b></li>
     </ul>
     
     <h3 class="u-text-h3 u-color-70">Chi sono?</h3>
@@ -71,24 +72,8 @@ author: "Alessandro S."
 }
 </style>
     <h3 class="u-text-h3 u-color-70">Contatti</h3>
-    <p>Email: <a href="mailto:gabriel.jones@18f.gjdev.it">gabriel.jones@18f.gjdev.it</a></p>
     <p>Email: <a href="mailto:segreteria.g@18f.gjdev.it">segreteria.g@18f.gjdev.it</a></p>
-    <p>Email: <a href="mailto:gabriel.jones@mail.urp.gjdev.it">gabriel.jones@mail.urp.gjdev.it</a></p>
-    <p>Telefono interno: 3591</p>
-    
 </div>
-<h3 class="u-text-h3 u-color-70">Post di Gabriel Jones</h3>
-
-{% assign filtered_posts = site.posts | where: "author", "gabrieljones" %}
-{% if filtered_posts.size > 0 %}
-  <ul>
-  {% for post in filtered_posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-  </ul>
-{% else %}
-  <p>Non ci sono post al momento.</p>
-{% endif %}
 
 
 <style>
