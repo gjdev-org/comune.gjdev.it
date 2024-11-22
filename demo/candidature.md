@@ -22,7 +22,8 @@ order: 1
           <h5 class="card-title">Presidente del Team</h5>
           <p class="card-text">Sei pronto a coordinare e guidare il Team Giovani? Come Presidente, avrai la responsabilità di supervisionare tutte le attività e rappresentare il gruppo di giovani nelle decisioni che riguardano la città.</p>
           <p><strong>Requisiti:</strong> Leadership, capacità organizzative, buona comunicazione. Interesse per il lavoro di squadra.</p>
-          <a href="#" class="btn btn-primary">Candidati ora</a>
+          <a href="#" class="btn btn-secondary disabled">Candidati ora</a>
+          <p>Posto già occupato.</p>
         </div>
       </div>
     </div>
