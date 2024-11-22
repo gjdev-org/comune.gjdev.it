@@ -18,6 +18,7 @@ order: 1
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
+          <h2>Gabriel Jones</h2>
           <h5 class="card-title">Presidente del Team</h5>
           <p class="card-text">Il Presidente coordina il Team Giovani e rappresenta i giovani nelle decisioni che riguardano le attività e gli obiettivi del gruppo, facilitando la comunicazione tra gli assessorati.</p>
         </div>
@@ -28,6 +29,7 @@ order: 1
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
+          <h2>Gabriel Jones</h2>
           <h5 class="card-title">Cultura Giovanile</h5>
           <p class="card-text">L'Assessorato alla Cultura promuove eventi culturali, mostre, concerti e attività artistiche per i giovani, favorendo la creatività e la partecipazione attiva nella vita culturale della città.</p>
         </div>
