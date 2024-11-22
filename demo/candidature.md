@@ -107,5 +107,19 @@ order: 1
     </div>
   </div>
 
+    <div class="row">
+    <!-- Card 7: A.G. Sport -->
+    <div class="col-md-6">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Moderatore</h5>
+          <p class="card-text">Siamo alla ricerca di un moderatore per gli incontri.</p>
+          <p><strong>Requisiti:</strong> Un'età compresa tra i 16 e i 20 anni.</p>
+          <a href="#" class="btn btn-primary">Candidati ora</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <p>Compila il modulo per candidarti per una delle posizioni sopra elencate e entra a far parte del Team Giovani! Le candidature sono aperte fino al 31-12-2024. Non perdere questa occasione di fare la differenza nella tua comunità!</p>
 </main>
