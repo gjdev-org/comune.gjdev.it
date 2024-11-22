@@ -3,7 +3,6 @@ layout: default
 title: Assessorato alla cultura e l'istruzione
 description: La base del futuro
 lang: it
-permalink: /assessorati/cultura-istruzione/?gjones
 order: 1
 ---
 
