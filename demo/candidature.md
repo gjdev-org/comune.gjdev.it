@@ -34,7 +34,7 @@ order: 1
         <div class="card-body">
           <h5 class="card-title">Cultura Giovanile</h5>
           <p class="card-text">Vuoi promuovere eventi culturali, mostre, e attività artistiche? L'Assessorato alla Cultura è alla ricerca di giovani creativi per organizzare e partecipare a eventi che arricchiscono la nostra città.</p>
-          <p><strong>Requisiti:</strong> Un'età compresa tra i 14 e i 18 anni.</p>
+          <p><strong>Requisiti:</strong> Un'età compresa tra i 14 e i 30 anni.</p>
           <a href="#" class="btn btn-primary">Candidati ora</a>
         </div>
       </div>
@@ -48,7 +48,7 @@ order: 1
         <div class="card-body">
           <h5 class="card-title">Innovazione Giovanile</h5>
           <p class="card-text">Sei appassionato di tecnologia e innovazione? Partecipa al nostro Assessorato all'Innovazione, dove promuoviamo l'uso di tecnologie digitali, coding, e progetti tecnologici per i giovani.</p>
-          <p><strong>Requisiti:</strong> Un'età compresa tra i 14 e i 18 anni</p>
+          <p><strong>Requisiti:</strong> Un'età compresa tra i 14 e i 25 anni</p>
           <a href="#" class="btn btn-primary">Candidati ora</a>
         </div>
       </div>
@@ -60,7 +60,7 @@ order: 1
         <div class="card-body">
           <h5 class="card-title">Sostenibilità Giovanile</h5>
           <p class="card-text">Sei interessato a migliorare l'ambiente? Unisciti all'Assessorato alla Sostenibilità e porta avanti progetti legati alla gestione dei rifiuti, energie rinnovabili e azioni eco-friendly.</p>
-          <p><strong>Requisiti:</strong> Un'età compresa tra i 14 e i 18 anni.</p>
+          <p><strong>Requisiti:</strong> Un'età compresa tra i 14 e i 30 anni.</p>
           <a href="#" class="btn btn-primary">Candidati ora</a>
         </div>
       </div>
@@ -74,7 +74,7 @@ order: 1
         <div class="card-body">
           <h5 class="card-title">Benessere Giovanile</h5>
           <p class="card-text">Sei interessato alla salute e al benessere dei giovani? Partecipa all'Assessorato al Benessere, occupandoti di progetti di sport, salute mentale, e benessere fisico.</p>
-          <p><strong>Requisiti:</strong> Un'età compresa tra i 14 e i 18 anni</p>
+          <p><strong>Requisiti:</strong> Un'età compresa tra i 14 e i 30 anni</p>
           <a href="#" class="btn btn-primary">Candidati ora</a>
         </div>
       </div>
