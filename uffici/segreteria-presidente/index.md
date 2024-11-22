@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Giunta Giovani
-description: La giunta dei giovani!
+title: Segreteria Presidente
+description: La segreteria del presidente!
 lang: it
 ref: homepage
-permalink: /uffici/giunta-giovani/
+permalink: /uffici/segreteria-p/
 order: 1
 ---
 
