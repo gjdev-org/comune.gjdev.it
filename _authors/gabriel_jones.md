@@ -5,7 +5,7 @@ photo: "/assets/images/authors/john_doe.jpg"
 role: "Assessore alla Cultura"
 office: "Palazzo Comunale, Stanza 12"
 email: "john.doe@example.com"
-phone: "+39 123 456 7890"
+permalink: /gabrieljones/
 social:
   twitter: "https://twitter.com/john_doe"
   linkedin: "https://linkedin.com/in/john_doe"
