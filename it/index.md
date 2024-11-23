@@ -19,39 +19,6 @@ order: 1
 
 
   <p>Attraverso il lavoro di squadra, il dialogo e l'impegno, questo progetto mira a costruire un ponte tra le nuove generazioni e le istituzioni, promuovendo un clima di collaborazione e partecipazione attiva, con l’obiettivo di migliorare la qualità della vita e le opportunità per i giovani di Fontanafredda.</p>
-
-  <h1>aree tematiche</h1>
-      <table>
-        <!-- Intestazioni opzionali -->
-        <tbody>
-            <!-- Righe della tabella -->
-            <tr>
-                <td><a href="https://comune.fontanafredda">Comune di Fontanafredda</a></td>
-                <td><a href="https://regione.fvg.it">Regione FVG</a></td>
-                <td><a href="https://icfontanafredda.edu.it">IcFontanafredda</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://gjdev.it/comune/statuto/">Statuto interno</a></td>
-                <td><a href="https://ava.gjdev.it">AVA</a></td>
-                <td><a href="https://comune.gjdev.it/uffici/giunta/">giunta giovani</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://comune.gjdev.it/persone-pubbliche/gjones/bandi/">Bandi</a></td>
-                <td><a href="https://gjdev.it">gjdev</a></td>
-                <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdX7Mv9QHQMWl2taahW7AaiOB33-ud6fBXewqxf3TEwC1MFAA/viewform?usp=sf_link">Iscrizione</a></td>
-            </tr>
-            <tr>
-                <td><a href="/uffici/">uffici</a></td>
-                <td><a href="/uffici/cultura/">Assessorato alla cultura</a></td>
-                <td><a href="/uffici/istruzione/">Assessorato all'istruzione</a></td>
-            </tr>
-        </tbody>
-    </table>
-
-
-
-  
-
   <style>
             table {
             border-collapse: collapse;
