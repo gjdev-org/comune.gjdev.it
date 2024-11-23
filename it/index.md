@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Giovani Di Fontanafredda
+title: Arena Giovani
 description: Siamo noi il futuro!
 lang: it
 ref: homepage
@@ -12,7 +12,7 @@ order: 1
 
 <main class="container my-4" markdown="1">
 <h2>Chi siamo?</h2>
-  <p>Comune GJD è un progetto innovativo e ambizioso che si propone di dare voce ai giovani all'interno delle dinamiche del Comune, creando uno spazio di dialogo e confronto tra le nuove generazioni e l’amministrazione locale. L'obiettivo principale è quello di coinvolgere attivamente i ragazzi e le ragazze di Fontanafredda nelle decisioni che riguardano il loro presente e futuro, rendendoli protagonisti del cambiamento.</p>
+  <p>Arena Giovani è un progetto innovativo e ambizioso che si propone di dare voce ai giovani all'interno delle dinamiche del Comune, creando uno spazio di dialogo e confronto tra le nuove generazioni e l’amministrazione locale. L'obiettivo principale è quello di coinvolgere attivamente i ragazzi e le ragazze di Fontanafredda nelle decisioni che riguardano il loro presente e futuro, rendendoli protagonisti del cambiamento.</p>
 
 
   <p>Uno degli elementi centrali di questo progetto è la nascita di un team speciale, la "Giunta Giovanile". Questo gruppo sarà composto da giovani motivati e intraprendenti, pronti a discutere e confrontarsi su vari temi legati alle politiche giovanili. La Giunta Giovanile rappresenterà un punto di riferimento per tutti i giovani del territorio, affrontando questioni importanti come cultura, sport, ambiente, istruzione e opportunità lavorative.</p>
