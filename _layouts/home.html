@@ -10,6 +10,52 @@
 <body>
   {%- include header/header.html -%}
   {{ content }}  
+    <h1>aree tematiche</h1>
+      <table>
+        <!-- Intestazioni opzionali -->
+        <tbody>
+            <!-- Righe della tabella -->
+            <tr>
+                <td><a href="https://comune.fontanafredda">Comune di Fontanafredda</a></td>
+                <td><a href="https://regione.fvg.it">Regione FVG</a></td>
+                <td><a href="https://icfontanafredda.edu.it">IcFontanafredda</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://gjdev.it/comune/statuto/">Statuto interno</a></td>
+                <td><a href="https://ava.gjdev.it">AVA</a></td>
+                <td><a href="https://comune.gjdev.it/uffici/giunta/">giunta giovani</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://comune.gjdev.it/persone-pubbliche/gjones/bandi/">Bandi</a></td>
+                <td><a href="https://gjdev.it">gjdev</a></td>
+                <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdX7Mv9QHQMWl2taahW7AaiOB33-ud6fBXewqxf3TEwC1MFAA/viewform?usp=sf_link">Iscrizione</a></td>
+            </tr>
+            <tr>
+                <td><a href="/uffici/">uffici</a></td>
+                <td><a href="/uffici/cultura/">Assessorato alla cultura</a></td>
+                <td><a href="/uffici/istruzione/">Assessorato all'istruzione</a></td>
+            </tr>
+        </tbody>
+    </table>
+
+
+
+  
+
+  <style>
+            table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        td, th {
+            width: 25%;
+            height: 50px;
+            text-align: center;
+            background-color: lightgray;
+            border: 1px solid white;
+        }
+
+  </style>
   {%- include footer/footer.html -%}
   {%- include cookiebar.html -%}
   {%- include scripts.html -%}
