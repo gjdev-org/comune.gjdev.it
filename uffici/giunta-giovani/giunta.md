@@ -21,21 +21,12 @@ order: 1
           <h4>Gabriel Jones</h4>
           <h5 class="card-title">Presidente del Team</h5>
           <p class="card-text">Il Presidente coordina il Team Giovani e rappresenta i giovani nelle decisioni che riguardano le attività e gli obiettivi del gruppo, facilitando la comunicazione tra gli assessorati.</p>
+          <h6>Assessorati:</h6>
+          <p><b>Assessorato alla cultura:</b>L'Assessorato alla Cultura promuove eventi culturali, mostre, concerti e attività artistiche per i giovani, favorendo la creatività e la partecipazione attiva nella vita culturale della città.</p>
+          <p><b>Assessorato all'istruzione:</b>L'Assessorato all'Istruzione si concentra sulla formazione e l'apprendimento innovativo. Offriamo corsi, tutoraggio, e attività per stimolare la crescita intellettuale dei giovani</p>
         </div>
       </div>
     </div>
-
-    <!-- Card 2: A.G. Cultura -->
-    <div class="col-md-6">
-      <div class="card">
-        <div class="card-body">
-          <h4>Gabriel Jones</h4>
-          <h5 class="card-title">Cultura Giovanile</h5>
-          <p class="card-text">L'Assessorato alla Cultura promuove eventi culturali, mostre, concerti e attività artistiche per i giovani, favorendo la creatività e la partecipazione attiva nella vita culturale della città.</p>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <div class="row">
     <!-- Card 3: A.G. Innovazione -->
@@ -72,19 +63,7 @@ order: 1
         </div>
       </div>
     </div>
-
-    <!-- Card 6: A.G. Istruzione -->
-    <div class="col-md-6">
-      <div class="card">
-        <div class="card-body">
-          <h4>Gabriel Jones</h4>
-          <h5 class="card-title">Educazione Giovanile</h5>
-          <p class="card-text">L'Assessorato all'Istruzione si concentra sulla formazione e l'apprendimento innovativo. Offriamo corsi, tutoraggio, e attività per stimolare la crescita intellettuale dei giovani.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-
+    
   <div class="row">
     <!-- Card 7: A.G. Sport -->
     <div class="col-md-6">
