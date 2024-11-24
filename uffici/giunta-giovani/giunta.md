@@ -22,8 +22,8 @@ order: 1
           <h5 class="card-title">Presidente del Team</h5>
           <p class="card-text">Il Presidente coordina il Team Giovani e rappresenta i giovani nelle decisioni che riguardano le attività e gli obiettivi del gruppo, facilitando la comunicazione tra gli assessorati.</p>
           <h6>Assessorati:</h6>
-          <p><b>Assessorato alla cultura:</b>L'Assessorato alla Cultura promuove eventi culturali, mostre, concerti e attività artistiche per i giovani, favorendo la creatività e la partecipazione attiva nella vita culturale della città.</p>
-          <p><b>Assessorato all'istruzione:</b>L'Assessorato all'Istruzione si concentra sulla formazione e l'apprendimento innovativo. Offriamo corsi, tutoraggio, e attività per stimolare la crescita intellettuale dei giovani</p>
+          <p><b>Assessorato alla cultura</b>.</p>
+          <p><b>Assessorato all'istruzione</b></p>
         </div>
       </div>
     </div>
