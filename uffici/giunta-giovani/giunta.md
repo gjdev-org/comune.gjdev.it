@@ -53,6 +53,7 @@ order: 1
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
+          <h4>Posizione non assegnata</h4>
           <h5 class="card-title">Sostenibilità Giovanile</h5>
           <p class="card-text">L'Assessorato alla Sostenibilità promuove azioni green, la gestione dei rifiuti, e progetti per l'uso delle energie rinnovabili, sensibilizzando i giovani sul tema ecologico.</p>
         </div>
@@ -89,6 +90,7 @@ order: 1
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
+          <h4>Posizione non assegnata</h4>
           <h5 class="card-title">Sport Giovanile</h5>
           <p class="card-text">L'Assessorato allo Sport promuove tornei, eventi sportivi e attività all'aperto per coinvolgere i giovani in una vita sana e attiva.</p>
         </div>
