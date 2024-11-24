@@ -20,10 +20,7 @@ order: 1
         <div class="card-body">
           <h4>Gabriel Jones</h4>
           <h5 class="card-title">Presidente del Team</h5>
-          <p class="card-text">Il Presidente coordina il Team Giovani e rappresenta i giovani nelle decisioni che riguardano le attività e gli obiettivi del gruppo, facilitando la comunicazione tra gli assessorati.</p>
-          <h6>Assessorati:</h6>
-          <p><b>Assessorato alla cultura</b>.</p>
-          <p><b>Assessorato all'istruzione</b></p>
+          <p class="card-text">Il Presidente coordina il Team Giovani e rappresenta i giovani nelle decisioni che riguardano le attività e gli obiettivi del gruppo. Il presidente si occupa in questo mandato di questi assessorati : <b>cultura</b> e <b>Istruzione</b></p>
         </div>
       </div>
     </div>
