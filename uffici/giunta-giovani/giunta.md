@@ -18,7 +18,7 @@ order: 1
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
-          <h2>Gabriel Jones</h2>
+          <h4>Gabriel Jones</h4>
           <h5 class="card-title">Presidente del Team</h5>
           <p class="card-text">Il Presidente coordina il Team Giovani e rappresenta i giovani nelle decisioni che riguardano le attività e gli obiettivi del gruppo, facilitando la comunicazione tra gli assessorati.</p>
         </div>
@@ -29,7 +29,7 @@ order: 1
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
-          <h2>Gabriel Jones</h2>
+          <h4>Gabriel Jones</h4>
           <h5 class="card-title">Cultura Giovanile</h5>
           <p class="card-text">L'Assessorato alla Cultura promuove eventi culturali, mostre, concerti e attività artistiche per i giovani, favorendo la creatività e la partecipazione attiva nella vita culturale della città.</p>
         </div>
@@ -42,6 +42,7 @@ order: 1
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
+          <h4>Alessio Padovan</h4>
           <h5 class="card-title">Innovazione Giovanile</h5>
           <p class="card-text">L'Assessorato all'Innovazione promuove l'uso di tecnologie, coding, eventi tech, e hackathon per i giovani che vogliono sviluppare progetti digitali e tecnologici.</p>
         </div>
@@ -64,6 +65,7 @@ order: 1
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
+          <h4>Posizione non assegnata</h4>
           <h5 class="card-title">Benessere Giovanile</h5>
           <p class="card-text">L'Assessorato al Benessere si occupa della salute fisica e mentale dei giovani, organizzando eventi sportivi e programmi di supporto psicologico e benessere.</p>
         </div>
@@ -74,6 +76,7 @@ order: 1
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
+          <h4>Gabriel Jones</h4>
           <h5 class="card-title">Educazione Giovanile</h5>
           <p class="card-text">L'Assessorato all'Istruzione si concentra sulla formazione e l'apprendimento innovativo. Offriamo corsi, tutoraggio, e attività per stimolare la crescita intellettuale dei giovani.</p>
         </div>
