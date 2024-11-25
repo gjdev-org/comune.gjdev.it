@@ -38,7 +38,7 @@ order: 1
 
         .image {
             flex: 1;
-            background-image: url('https://avatars.githubusercontent.com/u/184998944?s=200&v=4'); /* Sostituisci con l'URL della tua immagine */
+            background-image: url('/assets/img/gjd.jpg'); /* Sostituisci con l'URL della tua immagine */
             background-size: cover;
             background-position: center;
             min-height: 400px;
