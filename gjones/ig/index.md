@@ -7,7 +7,7 @@ author: Interno
 permalink: /gjones/ig/
 ---
 
-# Normative per l'Account Politico Gabrieljones_official
+# Normative per l'Account Politico
 
 #### 1. **Contenuti Pubblicati**
 - **Finalità**: Questo account è dedicato alla comunicazione di idee politiche, aggiornamenti su iniziative e campagne, riflessioni su temi rilevanti e informazioni di pubblico interesse. Ogni contenuto pubblicato è pensato per stimolare il dibattito civile e costruttivo.
