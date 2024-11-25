@@ -102,6 +102,27 @@ order: 1
             border: 1px solid white;
         }
 
+
+
+      table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+}
+
+td2, th2 {
+    width: 33.33%;
+    height: 100px;
+    text-align: center;
+    background-color: #a40000;
+    color: #fff;
+    border: 3px solid #fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
   </style>
 </main>
 

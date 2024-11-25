@@ -12,3 +12,6 @@ social:
   facebook: "https://facebook.com/john.doe"
 ---
 John Doe è l'Assessore alla Cultura del Comune. Ha una lunga esperienza nel settore e si occupa di promuovere eventi e attività culturali nella comunità.
+
+
+
