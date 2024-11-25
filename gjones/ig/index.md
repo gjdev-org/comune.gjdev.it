@@ -1,18 +1,20 @@
 ---
 layout: post2
-title: "Norme account instagram Gabrieljones_official"
+title: "Norme account instagram gjd"
 description: "We are the future!"
 lang: it
 author: Interno
 permalink: /gjones/ig/
 ---
-# Regolamentazione per l'Account Politico su Instagram
+
+# Normative per l'Account Politico Gabrieljones_official
 
 #### 1. **Contenuti Pubblicati**
 - **Finalità**: Questo account è dedicato alla comunicazione di idee politiche, aggiornamenti su iniziative e campagne, riflessioni su temi rilevanti e informazioni di pubblico interesse. Ogni contenuto pubblicato è pensato per stimolare il dibattito civile e costruttivo.
 - **Trasparenza e Veridicità**: Ci impegniamo a condividere contenuti basati su fatti e informazioni verificate. Le fonti delle notizie saranno sempre citate quando possibile. Se ci fossero errori, ci riserviamo il diritto di correggerli e aggiornare il contenuto in modo trasparente.
 - **Rispetto della Legge**: È vietato pubblicare contenuti che incitano all'odio, alla violenza o alla discriminazione di qualsiasi tipo. L'account rispetta tutte le leggi e regolamenti in vigore, e si impegna a rispettare le normative sulla privacy e sulla diffamazione.
-  
+- **Ambito Locale**: I contenuti dovranno riguardare esclusivamente temi, eventi e iniziative legati al territorio di **Fontanafredda**, promuovendo il coinvolgimento della comunità locale.
+
 #### 2. **Interazione con i Follower**
 - **Dibattito e Discussione**: L'account incoraggia il dibattito politico civile e costruttivo. Siamo aperti a critiche, suggerimenti e opinioni contrastanti, purché siano espressi in modo rispettoso e non violento.
 - **Rispetto**: Qualsiasi commento o interazione che violi i principi di rispetto e dignità umana sarà moderato. Offese, insulti personali, minacce e incitamenti all'odio non sono tollerati.
@@ -38,17 +40,14 @@ permalink: /gjones/ig/
 
 #### 6. **Politica di Inclusività e Diversità**
 - Questo account promuove valori di inclusività e rispetto verso tutte le persone, indipendentemente dal loro background, orientamento, genere, religione, etnia o opinioni politiche. Crediamo che un confronto sano e civile possa solo arricchire la società, e lavoriamo per creare un ambiente che favorisca la partecipazione di tutti.
-  
+
 #### 7. **Iniziative e Collaborazioni**
 - **Collaborazioni e Supporto**: Siamo aperti a collaborazioni con altre realtà politiche, associazioni, o gruppi che condividono i nostri valori fondamentali. Ogni collaborazione sarà sempre chiara, trasparente e mirata a migliorare la nostra azione politica.
-- **Promozione di Eventi**: Gli eventi, le manifestazioni o le iniziative politiche promosse attraverso questo account saranno sempre descritte in modo trasparente, con informazioni chiare su data, luogo, obiettivi e organizzatori.
+- **Promozione di Eventi**: Gli eventi, le manifestazioni o le iniziative politiche promosse attraverso questo account saranno sempre descritti in modo trasparente, con informazioni chiare su data, luogo, obiettivi e organizzatori.
+- **Restrizione sui Siti**: Saranno promossi o citati solo siti web con dominio **.it**, che rappresentano istituzioni, organizzazioni o media affidabili. Inoltre, i siti menzionati dovranno trattare esclusivamente tematiche legate a **Fontanafredda**.
 
 #### 8. **Gestione delle Critiche e Feedback**
 - Siamo consapevoli che ogni iniziativa politica può suscitare opinioni contrastanti. Accogliamo le critiche costruttive e risponderemo con dati, fatti e argomentazioni solide. Non tollereremo invece attacchi personali, diffamazione o commenti che distorcano le informazioni per fini polemici.
 
-
 ### **Modifiche al Regolamento**
 Ci riserviamo il diritto di aggiornare e modificare queste politiche in qualsiasi momento, al fine di riflettere al meglio i cambiamenti nel panorama politico, sociale e normativo. Ogni modifica sarà comunicata tramite un post pubblico sull'account.
-
-
-Queste politiche sono progettate per stabilire un ambiente online rispettoso, civile e produttivo, contribuendo a una comunicazione politica sana e inclusiva. Se ti sembra che possa funzionare, puoi iniziare a comunicarle ai tuoi follower, magari includendole anche nella descrizione dell’account o in un post di benvenuto.
