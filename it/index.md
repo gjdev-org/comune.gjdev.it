@@ -21,13 +21,7 @@ order: 1
   <p>Attraverso il lavoro di squadra, il dialogo e l'impegno, questo progetto mira a costruire un ponte tra le nuove generazioni e le istituzioni, promuovendo un clima di collaborazione e partecipazione attiva, con l’obiettivo di migliorare la qualità della vita e le opportunità per i giovani di Fontanafredda.</p>
 
 
-      <div class="container2">
-        <div class="image"></div>
-        <div class="content">
-            <h1>Scopri chi sono</h1>
-            <p>Ciao! Sono [Il Tuo Nome], un appassionato di [il tuo interesse o professione]. Amo [breve descrizione delle tue passioni o obiettivi].</p>
-        </div>
-    </div>
+
 
     
   <style>
