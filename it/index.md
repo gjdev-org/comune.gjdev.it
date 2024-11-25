@@ -19,7 +19,83 @@ order: 1
 
 
   <p>Attraverso il lavoro di squadra, il dialogo e l'impegno, questo progetto mira a costruire un ponte tra le nuove generazioni e le istituzioni, promuovendo un clima di collaborazione e partecipazione attiva, con l’obiettivo di migliorare la qualità della vita e le opportunità per i giovani di Fontanafredda.</p>
+
+
+      <div class="container2">
+        <div class="image"></div>
+        <div class="content">
+            <h1>Scopri chi sono</h1>
+            <p>Ciao! Sono [Il Tuo Nome], un appassionato di [il tuo interesse o professione]. Amo [breve descrizione delle tue passioni o obiettivi].</p>
+        </div>
+    </div>
+
+    
   <style>
+              .container2 {
+            display: flex;
+            max-width: 1200px;
+            margin: 50px auto;
+            background: #fff;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+            border: 5px solid #a40000;
+        }
+
+        .image {
+            flex: 1;
+            background-image: url('https://avatars.githubusercontent.com/u/184998944?s=200&v=4'); /* Sostituisci con l'URL della tua immagine */
+            background-size: cover;
+            background-position: center;
+            min-height: 400px;
+            position: relative;
+        }
+
+        .image::after {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(164, 0, 0, 0.8);
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+
+        .content {
+            flex: 2;
+            padding: 30px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .content h1 {
+            font-size: 2.5rem;
+            color: #a40000;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+        }
+
+        .content p {
+            font-size: 1.2rem;
+            color: #333;
+            line-height: 1.8;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+
+            .image, .content {
+                flex: 1;
+            }
+        }
+      
             table {
             border-collapse: collapse;
             width: 100%;
