@@ -1,9 +1,9 @@
 ---
-layout: post2
+layout: post3
 title: "Norme account instagram gjd"
 description: "We are the future!"
 lang: it
-author: Interno
+author: URP Department
 permalink: /privacy/ig/
 ---
 
