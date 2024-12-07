@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<article class="container my-4">
+  <div class="entry">
+    {{ content }}
+  </div>
+----
+  <div class="date">
+    <article id="contatti" class="it-page-section mb-5">
+                      <h2 class="mb-3">Contatti</h2>
+            <div class="card card-teaser shadow mt-3 rounded">
+    <svg class="icon" aria-hidden="true">
+        <use xlink:href="#it-telephone"></use>
+    </svg>
+    <div class="card-body">
+        <h3 class="card-title h5">
+            <!-- a class="text-decoration-none" href="#" -->
+            Comune GJD            <!-- /a -->
+        </h3>
+        <div class="card-text">
+                        <a target="_blank" aria-label="" title="" href="mailto:info@comune.gjdev.it">
+                            info@comune.gjdev.it                        </a>
+                    </p>
+                                   </div>
+    </div>
+</div>
+                    </article>
+    Scritto il {{ page.date | date: "%d/%m/%Y" }}
+    
+  </div>
+
+  {% include disqus.html %}
+</article>
