@@ -2,9 +2,6 @@
 layout: default
 ---
 <article class="container my-4">
-  <div class="entry">
-    {{ content }}
-  </div>
 ----
 
 
@@ -33,94 +30,6 @@ layout: default
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 offset-lg-1">
-                        
-<div class="dropdown d-inline">
-    <button class="btn btn-dropdown dropdown-toggle text-decoration-underline d-inline-flex align-items-center fs-0" type="button" id="shareActions" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="condividi sui social">
-        <svg class="icon" aria-hidden="true">
-            <use xlink:href="#it-share"></use>
-        </svg>
-        <small>Condividi</small>
-    </button>
-    <div class="dropdown-menu shadow-lg" aria-labelledby="shareActions">
-        <div class="link-list-wrapper">
-            <ul class="link-list" role="menu">
-                <li role="none">
-                <a class="list-item" href="https://www.facebook.com/sharer/sharer.php?u=https://www.comune.fontanafredda.pn.it/novita/comunicazione-differimento-prova-orale-concorso-n-05-posti-istruttore-amministrativo/" target="_blank" role="menuitem">
-                <svg class="icon" aria-hidden="true">
-                    <use xlink:href="#it-facebook"></use>
-                    </svg>
-                    <span>Facebook</span></a>
-                </li>
-                <li role="none">
-                <a class="list-item" href="https://twitter.com/intent/tweet?text=https://www.comune.fontanafredda.pn.it/novita/comunicazione-differimento-prova-orale-concorso-n-05-posti-istruttore-amministrativo/" target="_blank" role="menuitem">
-                <svg class="icon" aria-hidden="true">
-                    <use xlink:href="#it-twitter"></use>
-                    </svg>
-                    <span>Twitter</span></a>
-                </li>
-                <li role="none">
-                <a class="list-item" href="https://www.linkedin.com/shareArticle?url=https://www.comune.fontanafredda.pn.it/novita/comunicazione-differimento-prova-orale-concorso-n-05-posti-istruttore-amministrativo/" target="_blank" role="menuitem">
-                <svg class="icon" aria-hidden="true">
-                    <use xlink:href="#it-linkedin"></use>
-                    </svg>
-                    <span>Linkedin</span></a>
-                </li>
-                <li role="none">
-                <a class="list-item" href="https://api.whatsapp.com/send?text=https://www.comune.fontanafredda.pn.it/novita/comunicazione-differimento-prova-orale-concorso-n-05-posti-istruttore-amministrativo/" target="_blank" role="menuitem">
-                <svg class="icon" aria-hidden="true">
-                    <use xlink:href="#it-whatsapp"></use>
-                    </svg>
-                    <span>Whatsapp</span></a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</div>
-<div class="dropdown d-inline">
-    <button class="btn btn-dropdown dropdown-toggle text-decoration-underline d-inline-flex align-items-center fs-0" type="button" id="viewActions" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        <svg class="icon" aria-hidden="true">
-        <use xlink:href="#it-more-items"></use>
-        </svg>
-        <small>Vedi azioni</small>
-    </button>
-    <div class="dropdown-menu shadow-lg" aria-labelledby="viewActions">
-        <div class="link-list-wrapper">
-            <ul class="link-list" role="menu">
-                <li role="none">
-                <a class="list-item" href="#" onclick="window.print()" role="menuitem">
-                    <svg class="icon" aria-hidden="true">
-                    <use xlink:href="#it-print"></use>
-                    </svg>
-                    <span>Stampa</span></a>
-                </li>
-                <li role="none">
-                <a class="list-item" href="#" role="menuitem" onclick="window.listenElements(this, '[data-audio]')"><svg class="icon" aria-hidden="true">
-                    <use xlink:href="#it-hearing"></use>
-                    </svg>
-                    <span>Ascolta</span></a>
-                </li>
-                <li role="none">
-                <a class="list-item" href="mailto:?subject=Comunicazione differimento prova orale concorso n. 5 posti Istruttore Amministrativo cat. C&amp;body=https://www.comune.fontanafredda.pn.it/novita/comunicazione-differimento-prova-orale-concorso-n-05-posti-istruttore-amministrativo/" role="menuitem"><svg class="icon" aria-hidden="true">
-                    <use xlink:href="#it-mail"></use>
-                    </svg>
-                    <span>Invia</span></a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</div>
-<div class="mt-4 mb-4">
-    <span class="subtitle-small">Argomenti</span>
-    <ul class="d-flex flex-wrap gap-1">
-                <li>
-            <a class="chip chip-simple" href="https://www.comune.fontanafredda.pn.it/argomento/concorsi/" data-element="service-topic">
-                <span class="chip-label">Concorsi</span>
-            </a>
-        </li>
-            </ul>
-</div>
-                    </div>
                 </div>
             </div>
 
@@ -132,6 +41,16 @@ layout: default
                     </figure>
     </div>
 </div>
+
+
+  
+  <div class="entry">
+    {{ content }}
+  </div>
+
+
+
+  
   <div class="date">
 <article class="it-page-section anchor-offset mt-5">
                             <h4 id="a-cura-di">A cura di</h4>
@@ -157,5 +76,6 @@ layout: default
                         </article>
   </div>
 
+  
   {% include disqus.html %}
 </article>
