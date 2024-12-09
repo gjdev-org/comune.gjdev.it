@@ -4,7 +4,7 @@ title: "Norme account instagram gjd"
 description: "We are the future!"
 lang: it
 author: URP Department
-permalink: /privacy/ig/
+permalink: /gjones/ig/
 ---
 
 # Normative per l'Account Politico
